@@ -31,12 +31,16 @@ I have completed all **problem sets** as a way to practice and improve my **Pyth
 I have not yet worked on the **final project**, but I may add one in the future.  
 
 ## ▌ Installation & Usage
-1️⃣ **Clone the repository**  
+1️⃣ **Clone the repository**
+```sh
 git clone https://github.com/ai-dg/cs50p.git  
 cd cs50p  
+```
 
 2️⃣ Run problem sets  
+```sh
 python [filename].py  
+```
 
 ## 📜 License
 This repository contains my personal solutions for CS50P exercises.  
