@@ -1,6 +1,6 @@
 # CS50P - Introduction to Programming with Python
 
-<img src="https://github.com/user-attachments/assets/768dedb5-5a4c-4517-b967-d00b6409c2b9" width="500">
+<img src="assets/overview.png" alt="CS50P — overview" width="760">
 
 📌 **Harvard University's CS50P - Intro to Programming with Python**  
 
