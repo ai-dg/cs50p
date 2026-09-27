@@ -23,7 +23,7 @@ I have completed all **problem sets** as a way to practice and improve my **Pyth
 | **Data Structures** | Lists, dictionaries, sets, tuples |
 | **File Handling** | Reading/writing files, CSV, JSON |
 | **Regular Expressions** | Pattern matching with `re` module |
-| **APIs & Web Scraping** | Fetching data from APIs, parsing web pages |
+| **APIs** | Fetching and parsing JSON from an API (`requests`) |
 | **Object-Oriented Programming** | Classes, objects, inheritance |
 | **Testing & Debugging** | Writing unit tests with `pytest` |
 
@@ -39,6 +39,7 @@ cd cs50p
 
 2️⃣ Run problem sets  
 ```sh
+pip install emoji inflect pyfiglet requests tabulate fpdf2 Pillow validator-collection pytest  
 python [filename].py  
 ```
 
